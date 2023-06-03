@@ -1,2 +1,2 @@
 # tic-tac-toe
-This is a tic-tac-toe game built with C++
+This is a tic-tac-toe game built with C++.
