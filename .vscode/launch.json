@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rounaksarkar/Desktop/tic-tac-toe",
+      "program": "/Users/rounaksarkar/Desktop/tic-tac-toe/build/Debug/outDebug"
+    }
+  ]
+}
